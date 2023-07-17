@@ -10,6 +10,27 @@ Este repositório pretende documentar requisições HTTP afetuadas a uma API pú
         <th>LIST OF ALL OBJECTS</th>
         <th>https://api.restful-api.dev/objects</th>
     </tr>
+    <tr>
+        <th>GET</th>
+        <th>LIST OF OBJECTS BY IDS</th>
+        <th>https://api.restful-api.dev/objects?id=3&id=5&id=10</th>
+    </tr><tr>
+        <th>GET</th>
+        <th>SINGLE OBJECT</th>
+        <th>https://api.restful-api.dev/objects/7</th>
+    </tr><tr>
+        <th>POST</th>
+        <th>ADD OBJECT</th>
+        <th>https://api.restful-api.dev/objects</th>
+    </tr><tr>
+        <th>PUT</th>
+        <th>UPDATE OBJECT</th>
+        <th>https://api.restful-api.dev/objects/7</th>
+    </tr><tr>
+        <th>DELETE</th>
+        <th>DELETE OBJECT</th>
+        <th>https://api.restful-api.dev/objects</th>
+    </tr>
 </table>
 
 
