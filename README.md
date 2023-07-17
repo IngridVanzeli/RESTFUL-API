@@ -38,16 +38,16 @@ Este repositório pretende documentar requisições HTTP afetuadas a uma API pú
 !(https://github.com/IngridVanzeli/RESTFUL-API/assets/47196643/34f4080d-c4af-4987-ba96-72b888650cd9)
 
 <h4>LIST OF OBJECTS BY IDS</h4>
-![Lista Objetos por id](https://github.com/IngridVanzeli/RESTFUL-API/assets/47196643/064198c4-625a-4833-8df3-eacfebdd5d54)
+!(https://github.com/IngridVanzeli/RESTFUL-API/assets/47196643/064198c4-625a-4833-8df3-eacfebdd5d54)
 
 <h4>SINGLE OBJECT</h4>
-![lista objeto unico](https://github.com/IngridVanzeli/RESTFUL-API/assets/47196643/ea37011a-b521-496a-b513-7e160cc92725)
+!(https://github.com/IngridVanzeli/RESTFUL-API/assets/47196643/ea37011a-b521-496a-b513-7e160cc92725)
 
 <h4>ADD OBJECT</h4>
-![add objeto](https://github.com/IngridVanzeli/RESTFUL-API/assets/47196643/70bafa58-87ba-4c6f-bd69-c9bcfe948373)
+!(https://github.com/IngridVanzeli/RESTFUL-API/assets/47196643/70bafa58-87ba-4c6f-bd69-c9bcfe948373)
 
 <h4>UPDATE OBJECT</h4>
-![atualizar objeto](https://github.com/IngridVanzeli/RESTFUL-API/assets/47196643/ee245b82-6ed4-4eac-badc-69ed2ffef866)
+!(https://github.com/IngridVanzeli/RESTFUL-API/assets/47196643/ee245b82-6ed4-4eac-badc-69ed2ffef866)
 
 <h4>DELETE OBJECT</h4>
-![deletar objto](https://github.com/IngridVanzeli/RESTFUL-API/assets/47196643/94436ac0-c574-46f4-a1fa-f6484921f4fb)
+!(https://github.com/IngridVanzeli/RESTFUL-API/assets/47196643/94436ac0-c574-46f4-a1fa-f6484921f4fb)
